@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on Mountain Resort Khomi</title>
+    <link>//localhost:1313/sections/</link>
+    <description>Recent content in Sections on Mountain Resort Khomi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 30 Jan 2019 13:00:18 +0300</lastBuildDate>
+    
+	<atom:link href="//localhost:1313/sections/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/sections/section1/</link>
+      <pubDate>Wed, 30 Jan 2019 13:00:18 +0300</pubDate>
+      
+      <guid>//localhost:1313/sections/section1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/sections/section2/</link>
+      <pubDate>Wed, 30 Jan 2019 13:00:18 +0300</pubDate>
+      
+      <guid>//localhost:1313/sections/section2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

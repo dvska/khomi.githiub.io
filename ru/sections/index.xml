@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sections on Турбаза Хоми</title>
-    <link>//localhost:1313/ru/sections/</link>
+    <link>https://dvska.github.io/khomi.githiub.io/ru/sections/</link>
     <description>Recent content in Sections on Турбаза Хоми</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 30 Jan 2019 13:00:18 +0300</lastBuildDate>
     
-	<atom:link href="//localhost:1313/ru/sections/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dvska.github.io/khomi.githiub.io/ru/sections/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>//localhost:1313/ru/sections/section1/</link>
+      <link>https://dvska.github.io/khomi.githiub.io/ru/sections/section1/</link>
       <pubDate>Wed, 30 Jan 2019 13:00:18 +0300</pubDate>
       
-      <guid>//localhost:1313/ru/sections/section1/</guid>
+      <guid>https://dvska.github.io/khomi.githiub.io/ru/sections/section1/</guid>
       <description></description>
     </item>
     

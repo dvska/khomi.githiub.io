@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sections on Турбаза Хоми</title>
-    <link>/ru/sections/</link>
+    <link>https://khomi.netlify.com/ru/sections/</link>
     <description>Recent content in Sections on Турбаза Хоми</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 30 Jan 2019 13:00:18 +0300</lastBuildDate>
     
-	<atom:link href="/ru/sections/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://khomi.netlify.com/ru/sections/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>/ru/sections/section1/</link>
+      <link>https://khomi.netlify.com/ru/sections/section1/</link>
       <pubDate>Wed, 30 Jan 2019 13:00:18 +0300</pubDate>
       
-      <guid>/ru/sections/section1/</guid>
+      <guid>https://khomi.netlify.com/ru/sections/section1/</guid>
       <description></description>
     </item>
     
